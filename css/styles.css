@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+h1{
+    size: 20px;
+}
+img{
+background-color: blue;
+}
+.mushroom{
+background-color: whitesmoke;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: red;
+}
